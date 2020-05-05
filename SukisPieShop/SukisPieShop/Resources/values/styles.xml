@@ -1,5 +1,10 @@
+<<<<<<< HEAD:SukisPieShop/SukisPieShop/Resources/values/styles.xml
 <resources>
 
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+>>>>>>> 562ac05879c4245257a1cd4cfddfb3fb20698280:styles.xml
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
@@ -7,8 +12,12 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+<<<<<<< HEAD:SukisPieShop/SukisPieShop/Resources/values/styles.xml
 
   <style name="SukisTheme" parent="android:Theme.Material.Light">
+=======
+      <style name="SukisTheme" parent="android:Theme.Material.Light">
+>>>>>>> 562ac05879c4245257a1cd4cfddfb3fb20698280:styles.xml
     <item name="android:colorPrimary">@color/sukiGreen</item>
     <item name="android:colorAccent">@color/sukiBeige</item>
   </style>
@@ -16,5 +25,8 @@
   <style name="SukisGreenText" parent="TextAppearance.AppCompat">
     <item name="android:textColor">#23cfa7</item>
   </style>
+<<<<<<< HEAD:SukisPieShop/SukisPieShop/Resources/values/styles.xml
   
 </resources>
+=======
+>>>>>>> 562ac05879c4245257a1cd4cfddfb3fb20698280:styles.xml
