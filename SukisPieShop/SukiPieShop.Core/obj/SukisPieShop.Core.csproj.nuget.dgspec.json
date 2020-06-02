@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sukanyasengupta/Projects/SukisPieShop/SukiPieShop.Core/SukisPieShop.Core.csproj": {}
+    "/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukiPieShop.Core/SukisPieShop.Core.csproj": {}
   },
   "projects": {
-    "/Users/sukanyasengupta/Projects/SukisPieShop/SukiPieShop.Core/SukisPieShop.Core.csproj": {
+    "/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukiPieShop.Core/SukisPieShop.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sukanyasengupta/Projects/SukisPieShop/SukiPieShop.Core/SukisPieShop.Core.csproj",
+        "projectUniqueName": "/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukiPieShop.Core/SukisPieShop.Core.csproj",
         "projectName": "SukisPieShop.Core",
-        "projectPath": "/Users/sukanyasengupta/Projects/SukisPieShop/SukiPieShop.Core/SukisPieShop.Core.csproj",
+        "projectPath": "/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukiPieShop.Core/SukisPieShop.Core.csproj",
         "packagesPath": "/Users/sukanyasengupta/.nuget/packages/",
-        "outputPath": "/Users/sukanyasengupta/Projects/SukisPieShop/SukiPieShop.Core/obj/",
+        "outputPath": "/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukiPieShop.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sukanyasengupta/.config/NuGet/NuGet.Config"

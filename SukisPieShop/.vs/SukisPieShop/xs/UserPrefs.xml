@@ -1,21 +1,31 @@
 ﻿<Properties StartupConfiguration="{D0233690-C3CB-45D8-AB1B-DFB941CB0FBA}|Default">
-  <MonoDevelop.Ide.ItemProperties.SukisPieShop AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SukisPieShop/Resources/layout/pie_detail.axml">
+  <MonoDevelop.Ide.ItemProperties.SukisPieShop AndroidDesignerPreferredTheme="SukisTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SukisPieShop/Adapters/PieAdapter.cs">
     <Files>
-      <File FileName="SukisPieShop/PieDetailActivity.cs" Line="49" Column="78" />
-      <File FileName="SukisPieShop/Resources/layout/pie_detail.axml" Line="10" Column="1" />
-      <File FileName="SukisPieShop/Resources/values/styles.xml" Line="12" Column="55" />
-      <File FileName="SukisPieShop/Resources/values/colors.xml" />
-      <File FileName="SukisPieShop/Properties/AndroidManifest.xml" />
-      <File FileName="SukisPieShop/Resources/layout/activity_main.xml" Line="10" Column="13" />
-      <File FileName="SukisPieShop/Utility/ImageHelper.cs" Line="19" Column="51" />
-      <File FileName="SukiPieShop.Core/Model/Pie.cs" Line="12" Column="40" />
-      <File FileName="SukiPieShop.Core/Respository/PieRepository.cs" Line="15" Column="11" />
+      <File FileName="SukisPieShop/PieMenuActivity.cs" Line="21" Column="24" />
+      <File FileName="SukisPieShop/Resources/layout/pie_menu.axml" Line="24" Column="1" />
+      <File FileName="SukisPieShop/Adapters/PieAdapter.cs" Line="39" Column="33" />
+      <File FileName="SukisPieShop/ViewHolders/PieViewHolder.cs" Line="2" Column="11" />
+      <File FileName="SukisPieShop/Resources/layout/pie_viewholder.axml" Line="23" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SukisPieShop" selected="True" />
+          <Node name="SukisPieShop" expanded="True">
+            <Node name="SukisPieShop" expanded="True">
+              <Node name="Adapters" expanded="True">
+                <Node name="PieAdapter.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="ViewHolders" expanded="True" />
+            </Node>
+            <Node name="SukisPieShop.Core" expanded="True">
+              <Node name="Respository" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>

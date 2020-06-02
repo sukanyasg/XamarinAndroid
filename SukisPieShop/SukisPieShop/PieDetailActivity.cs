@@ -15,7 +15,7 @@ using SukisPieShop.Core.Repository;
 
 namespace SukisPieShop
 {
-    [Activity(Label = "PieDetailActivity", MainLauncher = true)]
+    [Activity(Label = "PieDetailActivity")]
     public class PieDetailActivity : Activity
     {
         private PieRepository _pieRepository;
