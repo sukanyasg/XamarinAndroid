@@ -1,32 +1,30 @@
 ﻿<Properties StartupConfiguration="{D0233690-C3CB-45D8-AB1B-DFB941CB0FBA}|Default">
   <MonoDevelop.Ide.ItemProperties.SukisPieShop AndroidDesignerPreferredTheme="SukisTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SukisPieShop/Adapters/PieAdapter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SukisPieShop/Properties/AndroidManifest.xml">
     <Files>
-      <File FileName="SukisPieShop/PieMenuActivity.cs" Line="21" Column="24" />
-      <File FileName="SukisPieShop/Resources/layout/pie_menu.axml" Line="24" Column="1" />
-      <File FileName="SukisPieShop/Adapters/PieAdapter.cs" Line="39" Column="33" />
-      <File FileName="SukisPieShop/ViewHolders/PieViewHolder.cs" Line="2" Column="11" />
-      <File FileName="SukisPieShop/Resources/layout/pie_viewholder.axml" Line="23" Column="16" />
+      <File FileName="SukisPieShop/Resources/layout/pie_menu_tabs.axml" Line="2" Column="35" IsPinned="True" />
+      <File FileName="SukisPieShop/obj/Debug/res/layout/activity_main.xml" Line="1" Column="1876" />
+      <File FileName="SukisPieShop/PieMenuWithTabsActivity.cs" Line="24" Column="1" />
+      <File FileName="SukisPieShop/Resources/values/styles.xml" Line="16" Column="30" />
+      <File FileName="SukisPieShop/PieDetailActivity.cs" Line="21" Column="46" />
+      <File FileName="SukisPieShop/Resources/layout/pie_detail.axml" Line="3" Column="67" />
+      <File FileName="../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Aapt2.targets" Line="220" Column="3" />
+      <File FileName="SukisPieShop/Properties/AndroidManifest.xml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SukisPieShop" expanded="True">
             <Node name="SukisPieShop" expanded="True">
-              <Node name="Adapters" expanded="True">
-                <Node name="PieAdapter.cs" selected="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="AndroidManifest.xml" selected="True" />
               </Node>
-              <Node name="Properties" expanded="True" />
-              <Node name="Resources" expanded="True">
-                <Node name="layout" expanded="True" />
-              </Node>
-              <Node name="ViewHolders" expanded="True" />
-            </Node>
-            <Node name="SukisPieShop.Core" expanded="True">
-              <Node name="Respository" expanded="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

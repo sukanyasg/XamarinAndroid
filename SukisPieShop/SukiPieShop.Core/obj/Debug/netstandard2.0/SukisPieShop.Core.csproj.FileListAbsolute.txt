@@ -10,9 +10,9 @@
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukiPieShop.Core/bin/Debug/netstandard2.0/SukisPieShop.Core.deps.json
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukiPieShop.Core/bin/Debug/netstandard2.0/SukisPieShop.Core.dll
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukiPieShop.Core/bin/Debug/netstandard2.0/SukisPieShop.Core.pdb
-/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukiPieShop.Core/obj/Debug/netstandard2.0/SukisPieShop.Core.csprojAssemblyReference.cache
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukiPieShop.Core/obj/Debug/netstandard2.0/SukisPieShop.Core.csproj.CoreCompileInputs.cache
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukiPieShop.Core/obj/Debug/netstandard2.0/SukisPieShop.Core.AssemblyInfoInputs.cache
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukiPieShop.Core/obj/Debug/netstandard2.0/SukisPieShop.Core.AssemblyInfo.cs
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukiPieShop.Core/obj/Debug/netstandard2.0/SukisPieShop.Core.dll
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukiPieShop.Core/obj/Debug/netstandard2.0/SukisPieShop.Core.pdb
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukiPieShop.Core/obj/Debug/netstandard2.0/SukisPieShop.Core.csprojAssemblyReference.cache

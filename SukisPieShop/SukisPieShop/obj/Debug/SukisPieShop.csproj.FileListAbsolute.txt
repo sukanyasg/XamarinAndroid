@@ -325,7 +325,6 @@
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/bin/base.zip
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/bin/com.x3430nlakeshore.sukispieshop.aab
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/bin/com.x3430nlakeshore.sukispieshop.apks
-/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/layout/activity_main.xml
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/values/colors.xml
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/values/ic_launcher_background.xml
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/values/strings.xml
@@ -349,6 +348,16 @@
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/mipmap-xxxhdpi/ic_launcher_round.png
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/layout/pie_detail.xml
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/drawable/patternwide.png
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/layout/pie_menu.xml
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/layout/pie_viewholder.xml
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/drawable/bethanylogo.png
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/layout/pie_menu_fragment.xml
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/layout/pie_menu_tabs.xml
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/layout/second_view.xml
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/layout/about.xml
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/layout/cart.xml
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/layout/cart_viewholder.xml
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/layout/activity_main.xml
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/uploadflags.txt
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/resolvedassemblies.hash
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/assets/Java.Interop.dll
@@ -359,6 +368,7 @@
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/assets/mscorlib.dll
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/assets/mscorlib.pdb
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/assets/netstandard.dll
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/assets/Newtonsoft.Json.dll
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/assets/SukisPieShop.Core.dll
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/assets/SukisPieShop.Core.pdb
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/assets/SukisPieShop.dll
@@ -468,6 +478,11 @@
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/android/support/v7/cardview/R.java
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/android/support/v7/recyclerview/R.java
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/android/support/v7/widget/Toolbar_NavigationOnClickEventDispatcher.java
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64278eb923eb730426/CategoryFragmentAdapter.java
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64278eb923eb730426/PieAdapter.java
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64278eb923eb730426/ShoppingCartAdapter.java
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc647b906606c23becd5/CartViewHolder.java
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc647b906606c23becd5/PieViewHolder.java
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64a0e0a82d0db9a07d/AccelerometerListener.java
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ActivityLifecycleContextListener.java
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64a0e0a82d0db9a07d/BarometerListener.java
@@ -483,8 +498,13 @@
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64a0e0a82d0db9a07d/TextToSpeechImplementation.java
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64a98abb514ffad9f1/CustomTabsServiceConnectionImpl.java
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64a98abb514ffad9f1/KeepAliveService.java
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64b2368be49b9f8219/AboutActivity.java
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64b2368be49b9f8219/CartActivity.java
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64b2368be49b9f8219/MainActivity.java
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64b2368be49b9f8219/PieDetailActivity.java
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64b2368be49b9f8219/PieMenuActivity.java
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64b2368be49b9f8219/PieMenuWithTabsActivity.java
+/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64fb25bcd03e99f22d/PieCategoryFragment.java
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/mono/android/app/ApplicationRegistration.java
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/mono/android/support/design/chip/ChipGroup_OnCheckedChangeListenerImplementor.java
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/mono/android/support/design/widget/AppBarLayout_OnOffsetChangedListenerImplementor.java
@@ -564,8 +584,3 @@
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
-/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/layout/pie_menu.xml
-/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/res/layout/pie_viewholder.xml
-/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64278eb923eb730426/PieAdapter.java
-/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc647b906606c23becd5/PieViewHolder.java
-/Users/sukanyasengupta/Documents/XamarinAndroid/SukisPieShop/SukisPieShop/obj/Debug/android/src/crc64b2368be49b9f8219/PieMenuActivity.java

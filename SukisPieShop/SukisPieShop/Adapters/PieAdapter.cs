@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 using Android.Support.V7.Widget;
 using Android.Views;
 using SukisPieshop.Utility;
 using SukisPieShop.Core.Model;
 using SukisPieShop.Core.Repository;
+using SukisPieShop.Core.Respository;
 using SukisPieShop.ViewHolders;
 
 namespace SukisPieShop.Adapters
@@ -13,11 +15,24 @@ namespace SukisPieShop.Adapters
     {
         public event EventHandler<int> ItemClick;
         private List<Pie> _pies;
+
+        public PieAdapter(Category category)
+        {
+            _pies = category.Pies;
+        }
+
         public PieAdapter()
         {
             var pieRepository = new PieRepository();
             _pies = pieRepository.GetAllPies();
         }
+
+        public async Task LoadData()
+        {
+            var pieRepository = new PieRepositoryWeb();
+            _pies = await pieRepository.GetAllPies();
+        }
+
         public override int ItemCount => _pies.Count;
 
         public override void OnBindViewHolder(RecyclerView.ViewHolder holder, int position)

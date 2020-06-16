@@ -12,6 +12,8 @@ using Android.Widget;
 using SukisPieShop.Core;
 using SukisPieshop.Utility;
 using SukisPieShop.Core.Repository;
+using SukisPieShop.Core.Model;
+using SukisPieShop.Core.Respository;
 
 namespace SukisPieShop
 {
@@ -19,7 +21,7 @@ namespace SukisPieShop
     public class PieDetailActivity : Activity
     {
         private PieRepository _pieRepository;
-        private SukisPieShop.Core.Model.Pie _selectedPie;
+        private Pie _selectedPie;
         private ImageView _pieImageView;
         private TextView _pieNameTextView;
         private TextView _shortDescriptionTextView;
@@ -31,12 +33,17 @@ namespace SukisPieShop
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-            SetContentView(SukisPieShop.Resource.Layout.pie_detail);
+            SetContentView(Resource.Layout.pie_detail);
+
+            var selectedPieId = Intent.Extras.GetInt("selectedPieId");
 
             _pieRepository = new PieRepository();
-            _selectedPie = _pieRepository.GetPieById(1);
+            _selectedPie = _pieRepository.GetPieById(selectedPieId);
+
             FindViews();
             BindData();
+            LinkEventHandlers();
+
         }
 
         private void BindData()
@@ -61,6 +68,22 @@ namespace SukisPieShop
             _amountEditText = FindViewById<EditText>(Resource.Id.amountEditText);
             _addToCartButton = FindViewById<Button>(Resource.Id.addToCartButton);
 
+        }
+
+        private void LinkEventHandlers()
+        {
+            _addToCartButton.Click += AddToCartButton_Click;
+        }
+
+        private void AddToCartButton_Click(object sender, EventArgs e)
+        {
+            var amount = int.Parse(_amountEditText.Text);
+
+            ShoppingCartRepository shoppingCartRepository = new ShoppingCartRepository();
+            shoppingCartRepository.AddToShoppingCart(_selectedPie, amount);
+            Toast.MakeText(Application.Context, "Pie added to cart", ToastLength.Long).Show();
+
+            this.Finish();
         }
     }
 }
